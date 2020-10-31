@@ -62,6 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
             RaisedButton(
               child: Text('SignUp'),
             ),
+            RaisedButton(child: Text("Pagina Internet"),)
           ],
         ),
       ),
